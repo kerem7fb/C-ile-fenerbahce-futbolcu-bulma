@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\bin\Debug\Fenerbahçe Futbolcu.exe.config
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\bin\Debug\Fenerbahçe Futbolcu.exe
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\bin\Debug\Fenerbahçe Futbolcu.pdb
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\obj\Debug\Fenerbahçe Futbolcu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\obj\Debug\Fenerbahçe_Futbolcu.Form1.resources
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\obj\Debug\Fenerbahçe_Futbolcu.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\obj\Debug\Fenerbahçe Futbolcu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\obj\Debug\Fenerbahçe Futbolcu.exe
+C:\Users\user\Desktop\10-M\Fenerbahçe Futbolcu\Fenerbahçe Futbolcu\obj\Debug\Fenerbahçe Futbolcu.pdb
